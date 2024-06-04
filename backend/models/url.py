@@ -1,7 +1,7 @@
 from beanie import Document
 
 
-class URL(Document):
+class URLModel(Document):
     short: str
     long: str
 

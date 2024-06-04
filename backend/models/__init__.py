@@ -1,3 +1,3 @@
-from models.url import URL
+from models.url import URLModel
 
-__all__ = [URL]
+__all__ = [URLModel]
